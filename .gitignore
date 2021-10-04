@@ -1,0 +1,5 @@
+.idea/
+skeleton.iml
+
+vendor/
+.phpunit.cache/
