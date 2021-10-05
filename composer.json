@@ -2,6 +2,7 @@
     "name": "chrispappas/php-example-skeleton",
     "type": "project",
     "require": {
+        "ext-json": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.5",
